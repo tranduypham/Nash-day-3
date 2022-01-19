@@ -1,0 +1,15 @@
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.csproj.AssemblyReference.cache
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.AssemblyInfoInputs.cache
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.AssemblyInfo.cs
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.csproj.CoreCompileInputs.cache
+E:\NasTech\Day_3\bin\Debug\net6.0\Day_3.exe
+E:\NasTech\Day_3\bin\Debug\net6.0\Day_3.deps.json
+E:\NasTech\Day_3\bin\Debug\net6.0\Day_3.runtimeconfig.json
+E:\NasTech\Day_3\bin\Debug\net6.0\Day_3.dll
+E:\NasTech\Day_3\bin\Debug\net6.0\ref\Day_3.dll
+E:\NasTech\Day_3\bin\Debug\net6.0\Day_3.pdb
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.dll
+E:\NasTech\Day_3\obj\Debug\net6.0\ref\Day_3.dll
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.pdb
+E:\NasTech\Day_3\obj\Debug\net6.0\Day_3.genruntimeconfig.cache
